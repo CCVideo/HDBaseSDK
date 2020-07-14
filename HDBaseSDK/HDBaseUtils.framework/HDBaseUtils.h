@@ -17,7 +17,7 @@ FOUNDATION_EXPORT const unsigned char HDBaseUtilsVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <HDBaseUtils/PublicHeader.h>
 
 //base库版本号
-#define HDBASESDK_VERSION @"1.0.1"
+#define HDBASESDK_VERSION @"1.0.2"
 
 #import <HDBaseUtils/HDUniversalUtils.h>
 
